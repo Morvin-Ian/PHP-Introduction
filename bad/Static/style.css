@@ -1,0 +1,32 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table{
+    padding: 5px;
+}
+table thead th{
+    padding: 5px;
+    border-bottom: 1px solid black;
+}
+
+table tbody td{
+    padding: 5px;
+}
+#edit{
+    background-color: blue;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
+#del{
+    background-color: red;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+
+}
