@@ -1,2 +1,2 @@
-# PHP-Crud
-Baic PHP-Crud operations with mysql
+# PHP-Introduction
+Basic PHP operations with mysql
